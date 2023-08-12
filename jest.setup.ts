@@ -1,0 +1,3 @@
+const setupTests = (): void => {};
+
+setupTests();
